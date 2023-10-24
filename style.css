@@ -1,0 +1,22 @@
+a{
+    background-color: rgb(35, 24, 236);
+    height: 50px;
+    width: 150px;
+    display: flex;
+    text-decoration: none;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+font-weight: 700;
+font-family: Arial, Helvetica, sans-serif;
+border-radius: 25px;
+
+}
+a:hover{
+    background-color: white;
+    color: rgb(69, 124, 234);
+    height: 36px;
+    width: 113px;
+    border: 1px rgb(62, 141, 226) solid;
+    transition: 0.5ms
+}
